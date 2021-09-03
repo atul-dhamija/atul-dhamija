@@ -11,7 +11,6 @@
 
 - 💬 Ask me about **Computer Vision, Aerial and Mobile Robotics**
 
-- 📫 How to reach me **atuldhamija18@gmail.com**
 
 ## 🟩 Make it work, make it right, make it fast. 🟩
 
