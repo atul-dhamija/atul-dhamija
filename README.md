@@ -18,7 +18,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=atul-dhamija&theme=radical&show_icons=true" alt="image" />
 </p>
 
-<p align="left">
+<p align="right">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-dhamija&layout=compact&theme=blueberry" alt="image" />
 </p>
 
