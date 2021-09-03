@@ -30,4 +30,4 @@
 
 <a href="https://www.linkedin.com/in/atul-dhamija/" ><img height="23" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=connect&message=@AtulDhamija&color=green&logo=linkedin&style=flat-square&logoColor=white&colorA=blue" /> </a>
 <a href="https://github.com/atul-dhamija" ><img height="23" alt="Nodejs" src="https://img.shields.io/static/v1.svg?label=follow&message=@atul-dhamija&color=yellow&logo=github&style=flat-square&logoColor=white&colorA=black" /> </a>
-<a href="mailto:atuldhamija18@gmail.com" ><img height="23" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=jainriddhi2110@gmail.com&label=mail&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:atuldhamija18@gmail.com" /> </a>
+<a href="mailto:atuldhamija18@gmail.com" ><img height="23" alt="Nodejs" src="https://img.shields.io/static/v1.svg?message=atuldhamija18@gmail.com&label=mail&style=flat-square&logo=gmail&color=red&logoColor=red&colorA=grey&link=mailto:atuldhamija18@gmail.com" /> </a>
