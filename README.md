@@ -3,7 +3,7 @@
 
 
 
-<img align="right" height="220px" width="350px" src="https://cdn.dribbble.com/users/2395254/screenshots/6974793/robot.gif" alt="image" />
+<img align="right" height="200px" width="320px" src="https://cdn.dribbble.com/users/2395254/screenshots/6974793/robot.gif" alt="image" />
 
 - 🔭 I’m currently working on **the projects in the field of AI and Robotics**
 
