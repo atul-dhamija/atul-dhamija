@@ -1,10 +1,12 @@
 <h1 align="center">Hi 👋, I'm Atul Dhamija</h1>
-<h3 align="center">I am a 3rd-year Mechanical Engineering undergraduate student at Sardar Vallabhbhai National Institute of Technology, India.</h3>
+
 
 
 
 <img align="right" height="200px" width="320px" src="https://cdn.dribbble.com/users/2395254/screenshots/6974793/robot.gif" alt="image" />
 
+- 👩‍🎓 I am a 3rd-year Mechanical Engineering undergraduate student at Sardar Vallabhbhai National Institute of Technology, India.
+- 
 - 🔭 I’m currently working on **the projects in the field of AI and Robotics**
 
 - 🌱 I’m currently learning **Motion Planning and Reinforcement Learning**
