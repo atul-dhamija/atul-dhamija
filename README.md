@@ -2,6 +2,9 @@
 <h3 align="center">I am a 3rd-year Mechanical Engineering undergraduate student at Sardar Vallabhbhai National Institute of Technology, India.</h3>
 
 
+
+<img align="right" height="220px" width="350px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F6974793-Robotic-Arm&psig=AOvVaw1BhLDpD1Hj6R7NvLGGkdHD&ust=1630729928295000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKjD08f84fICFQAAAAAdAAAAABAD" alt="image" />
+
 - 🔭 I’m currently working on **the projects in the field of AI and Robotics**
 
 - 🌱 I’m currently learning **Motion Planning and Reinforcement Learning**
