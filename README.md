@@ -12,13 +12,13 @@
 - 💬 Ask me about **Computer Vision, Aerial and Mobile Robotics**
 
 
-## 🟩 Make it work, make it right, make it fast. 🟩
+### 💻 Make it work, make it right, make it fast. 💻
 
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=atul-dhamija&theme=radical&show_icons=true" alt="image" />
 </p>
 
-<p align="right">
+<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul-dhamija&layout=compact&theme=blueberry" alt="image" />
 </p>
 
